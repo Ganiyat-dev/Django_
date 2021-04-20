@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("My Zuri First Django Application")
+    return HttpResponse("Yayyy it's My First Django Application on Zuri")
